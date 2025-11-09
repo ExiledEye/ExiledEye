@@ -9,10 +9,8 @@ I'm an Italian **CS student** passionate about programming, efficiency, and lear
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ExiledEye&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExiledEye&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
-</p>
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=ExiledEye&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="ExiledEye's github stats" /></a> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExiledEye&layout=compact&theme=graywhite&hide_border=true" alt="ExiledEye's github top languages" /></a> |
+| ------------- | ------------- |
 
 ---
 
