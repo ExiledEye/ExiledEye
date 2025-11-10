@@ -2,7 +2,7 @@
 
 I'm an Italian **CS student** passionate about programming, efficiency, and learning how stuff works.   
 
- 💻 Programming | 🎮 Videogame Modding | 🛠 Hardware Tinkerer | 📝 Sharing Knowledge 
+ 💻 Programming | 🎮 Videogame Modding | 🛠 Hardware Tinkering | 📝 Sharing Knowledge 
 
 
 ---
